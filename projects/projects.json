@@ -1,0 +1,20 @@
+[
+  {
+    "name": "E commerce  Website",
+    "desc": " React website is a fast, dynamic, and responsive online shopping platform built with React for seamless product browsing, cart management, and secure checkout..",
+    "image": "React1",
+    "links": {
+      "view": "https://react-ecommerce-app-twfm.onrender.com",
+      "code": "git@github.com:HarigaranRamesh/React-Ecommerce-app.git"
+    }
+  },
+  {
+    "name": "Employee Management",
+    "desc": " A React-Redux Employee Management app is a CRUD-based system that efficiently manages employee records with state management.",
+    "image": "React2",
+    "links": {
+      "view": "https://react-redux1-ilyi.onrender.com",
+      "code": "git@github.com:HarigaranRamesh/React-redux.git"
+    }
+  }
+]
