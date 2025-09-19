@@ -16,5 +16,14 @@
       "view": "https://react-redux1-ilyi.onrender.com",
       "code": "git@github.com:HarigaranRamesh/React-redux.git"
     }
+  },
+  {
+    "name": "Spotify Clone - React",
+    "desc": " “A Spotify Clone built with React and deployed on Vercel. It mimics Spotify’s UI.",
+    "image": "Project3",
+    "links": {
+      "view": "https://spotify-clone-react-g6zr.vercel.app/",
+      "code": "git@github.com:HarigaranRamesh/SpotifyClone-React.git"
+    }
   }
 ]
